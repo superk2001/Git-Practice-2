@@ -6,5 +6,10 @@ public class Main {
         System.out.println("Hello, Git!");
         //Test
         //Test 2
+        
+        //Test
+        for(int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
