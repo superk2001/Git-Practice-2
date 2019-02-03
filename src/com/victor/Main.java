@@ -7,6 +7,7 @@ public class Main {
         //Test
         //Test 2
         System.out.println("Test");
+        System.out.println(1 + 2);
         //Test
         for(int i = 0; i < 10; i++) {
             System.out.println(i);
